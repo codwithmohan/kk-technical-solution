@@ -1,0 +1,149 @@
+@media screen and (max-width:1365px) {
+    h1 {font-size: 55px;}
+    .banner-txt h1 {padding-bottom: 30px;}
+    .banner-main {padding-top: 60px;}
+    .banner-txt p {padding-bottom: 30px;}
+}
+@media screen and (max-width:1199px) {
+    h1 {font-size: 48px;}
+    .banner-txt p {padding-bottom: 25px;}
+    .banner-txt h1 {padding-bottom: 25px;}
+    .course-box {height: 210px;}
+    .counter-txt {padding-top: 30px;}
+    #testimonial {padding-bottom: 115px; padding-top: 90px;}
+    .profile-box {padding: 40px 30px;}
+    .title {padding-bottom: 60px;}
+    .course-main {padding-top: 80px;}
+    #course {padding-bottom: 100px; padding-top: 90px;}
+    .counter-txt h2 {font-size: 55px;}
+    .footer-top {padding-bottom: 40px;}
+    .btn {padding:0 45px; line-height: 50px;}
+    .title-row a {padding: 0 35px;}
+    #header {padding-top: 20px; padding-bottom: 20px;}
+}
+@media screen and (max-width:1023px) {
+    .banner-txt p {font-size: 22px;}
+    .banner-txt h1 {padding-bottom: 15px;}
+    .banner-txt p {padding-bottom: 25px;}
+    .about-txt h2 {padding-bottom: 25px;}
+    #about {padding-bottom: 90px;}
+    #course { padding-bottom: 80px; padding-top: 80px;}
+    .course-main {padding-top: 50px;}
+    #testimonial { padding-bottom: 80px; padding-top: 80px;}
+    .title {padding-bottom: 40px;}
+    .slider-main {padding-bottom: 70px;}
+    h2 {font-size: 42px;}
+    .counter-txt {padding-top: 25px;}
+    .footer-top {padding-bottom: 30px;}
+    .link h5 {padding-bottom: 30px;}
+    .counter-txt h2 {font-size: 50px;}
+    .profile-img img {max-width: 55px;}
+    .profile-txt h4 {padding-bottom: 5px;}
+    .profile-box {padding: 35px 30px;}
+    #header {padding-top: 15px; padding-bottom: 15px;}
+    .banner-main {padding-top: 50px;}
+    .btn { padding: 0 40px; line-height: 45px;}
+}
+@media screen and (max-width:991px) {
+    h1 {font-size: 38px;}
+    .banner-txt p {font-size: 18px;}
+    .banner-txt h1 {padding-bottom: 10px;}
+    .banner-txt p {padding-bottom: 18px;}
+    h2 {font-size: 32px;}
+    .counter-txt h2 {font-size: 40px;}
+    .about-txt h2 {padding-bottom: 15px;}
+    .about-txt p {font-size: 16px; padding-bottom: 18px; line-height: 22px;}
+    #about {padding-bottom: 70px; padding-top: 70px;}
+    #course { padding-bottom: 60px; padding-top: 60px;}
+    .banner-txt a {font-size: 16px;}
+    .btn { padding: 0 35px; line-height: 40px;}
+    .course-main {row-gap: 30px;}
+    .footer-main {row-gap: 20px;}
+    .course-box { height: auto; padding: 20px;}
+    .counter-txt h4 {font-size: 18px;}
+    .counter-txt {padding-top: 20px;}
+    .title {padding-bottom: 30px;}
+    #testimonial { padding-bottom: 60px; padding-top: 60px;}
+    #about { padding-bottom: 60px; padding-top: 60px;}
+    .footer-logo {padding-bottom: 20px;}
+    .link h5 {padding-bottom: 20px;}
+    .footer-main {row-gap: 10px;}
+    .footer-txt ul li {padding-bottom: 15px;}
+    .title-row a {line-height: 40px;}
+    .profile-txt h4 {font-size: 22px; padding-bottom: 0;}
+}
+@media screen and (max-width:767px) {
+    h1 {font-size: 30px;}
+    .banner-txt p {font-size: 16px; line-height: 20px; padding-bottom: 15px;}
+    .btn { padding: 0 30px; line-height: 36px;}
+    .banner-txt h1 {padding-bottom: 10px;}
+    #header { padding-top: 5px; padding-bottom: 5px;}
+    .menu ul {column-gap: 18px;}
+    .banner-main { padding-top: 0; margin-top: 18px;}
+    #about { padding-bottom: 40px; padding-top: 30px;}
+    .about-main { flex-wrap: wrap; row-gap: 30px;}
+    .about-txt h2 {padding-bottom: 10px;}
+    .course-main {padding-top: 30px; row-gap: 20px;}
+    #course { padding-bottom: 40px; padding-top: 40px;}
+    .profile-box {padding: 25px 20px;}
+    .course-txt h6 {padding-top: 18px; text-align: center;}
+    #testimonial { padding-bottom: 40px; padding-top: 40px;}
+    .title-row a {font-size: 16px;}
+    h2 {font-size: 28px;}
+    .counter-txt h2 { font-size: 34px; padding-left: 20px;}
+    .counter-txt h4 {font-size: 13px;}
+    .counter-txt {padding-top: 10px;}
+    #footer {padding-top: 42px;}
+    .profile-img img {max-width: 50px;}
+    .profile-txt h4 { padding-bottom: 0; font-size: 20px;}
+    .link h5 {padding-bottom: 15px;}
+    .footer-logo {padding-bottom: 15px;}
+    .footer-main {row-gap: 0;}
+    .title {padding-bottom: 20px;}
+    .menu ul{ left: -100%; position: absolute; top: 47px; width: 100%;  display: block !important;  padding: 10px 0;   background-color: #FE79A2;   z-index: 99999;  transition: all ease 0.6s;}
+    .toggle-bar { display: block;}
+    .menu.nav ul { top: 47px;  left: 0; }
+    #banner {z-index: -1;}
+    .menu ul li a { padding: 10px 15px; display: block;}
+    .menu-main {position: static;}
+    .menu.nav ul li a:hover { background-color: #777BBE; color: #fff;}
+    .about-txt a {font-size: 14px;}
+    .slide-item {padding: 0 10px;}
+
+}
+@media screen and (max-width:575px) {
+    .logo img {max-width: 100px;}
+    h1 {font-size: 22px;}
+    .about-txt a {font-size: 15px;}
+    .banner-txt p { font-size: 14px; line-height: 18px;}
+    .btn {line-height: 32px; padding: 0 24px;}
+    .banner-txt h1 {padding-bottom: 5px;}
+    .banner-txt p {padding-bottom: 10px;}
+    .title-row a {line-height: 34px; padding:0 30px;}
+    .course-txt h6 {padding-top: 15px;}
+    .about-txt p {font-size: 15px;}
+    h2 {font-size: 22px; margin: 0;}
+    .course-main {padding-top: 25px;}
+    .banner-img { position: absolute; width: 100%; top: 0; bottom: 0;}
+    .banner-img img { width: 100%; height: 100%; object-fit: cover; object-position: center;}
+    .banner-main { position: relative; transform: inherit; padding: 30px 0 0px 0;}
+    .banner-txt {padding: 30px 0;}
+    .footer-bottom-main {flex-wrap: wrap;}
+    .social-media-icon ul {justify-content: center;}
+    .copyright h6 { text-align: center; font-size: 13px;}
+    .footer-txt p {margin-bottom: 10px;}
+    .footer-txt ul li {padding-bottom: 10px;}
+    .link ul li {padding-bottom: 10px;}
+    .days-main p {margin-bottom: 10px;}
+    .achievement-img { position: absolute; inset: 0;}
+    .achievement-img img {width: 100%; height: 100%; object-fit: cover; object-position: center;}
+    .achievement-main{position: relative; transform: inherit; padding: 30px 0 0px 0;}
+    .counter-main {padding: 20px 0;flex-wrap: wrap; }
+    .counter-txt {text-align: center;}
+    .our-title h2 {text-align: center;}
+    .slider-main {padding-bottom: 70px;}
+    .profile-box p {line-height: 24.25px; max-width: 100%;}
+    .menu ul li a {padding: 8px 15px;}
+    body {margin-top: -18px;}
+}
+ 
