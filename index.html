@@ -338,6 +338,7 @@
         </div>
     </footer>
     <script src="js/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="js/slick.js"></script>
     <script>
         $(document).ready(function () {
@@ -405,6 +406,16 @@
                 counted = 1;
             }
 
+        });
+
+        jQuery(window).scroll(function () {
+            var scroll = $(window).scrollTop();
+
+            if (scroll >= 50) {
+                $("#header").addClass("changeHeader");
+            } else {
+                $("#header").removeClass("changeHeader");
+            }
         });
     </script>
 </body>
