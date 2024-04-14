@@ -48,7 +48,6 @@ li {
     position: fixed;
     width: 100%;
     background-color: #FE79A2;
-    border-bottom: 0;
     animation: scroll 1s linear;
 }
 @keyframes scroll {

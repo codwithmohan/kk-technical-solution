@@ -100,13 +100,13 @@
     .footer-logo {padding-bottom: 15px;}
     .footer-main {row-gap: 0;}
     .title {padding-bottom: 20px;}
-    .menu ul{ left: -100%; position: absolute; top: 47px; width: 100%;  display: block !important;  padding: 10px 0;   background-color: #FE79A2;   z-index: 99999;  transition: all ease 0.6s;}
+    .menu ul{ left: -100%; position: absolute; top: 47px; width: 100%;  display: block !important;  padding: 10px 0;   background-color: #777BBE;   z-index: 99999;  transition: all ease 0.6s;}
     .toggle-bar { display: block;}
     .menu.nav ul { top: 47px;  left: 0; }
     #banner {z-index: -1;}
     .menu ul li a { padding: 10px 15px; display: block;}
     .menu-main {position: static;}
-    .menu.nav ul li a:hover { background-color: #777BBE; color: #fff;}
+    .menu.nav ul li a:hover { background-color: #FE79A2; color: #fff;}
     .about-txt a {font-size: 14px;}
     .slide-item {padding: 0 10px;}
 
